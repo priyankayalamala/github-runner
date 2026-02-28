@@ -1,4 +1,5 @@
 
+
 data "aws_ami" "joindevops" {
 
     most_recent = true
